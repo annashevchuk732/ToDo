@@ -1,0 +1,14 @@
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.csprojAssemblyReference.cache
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.AssemblyInfo.cs
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.dll
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ref\ToDo.dll
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.pdb
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.deps.json
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.dll
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ref\ToDo.dll
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.pdb
+C:\Users\shevc\source\repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\XamlC.stamp

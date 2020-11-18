@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Name="root"
+             x:Class="ToDo.MainPage">
+    <StackLayout>
+        <Label Text="ToDoList" HorizontalOptions="Center"/>
+        <Entry Text="{Binding Object}" TextColor="Gray"></Entry>
+        <Button Text="Добавить" HeightRequest="45" Command="{Binding AddTask}"></Button>
+        <ListView ItemsSource="{Binding List}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox HorizontalOptions="Start"></CheckBox>
+                            <Label Text="{Binding tasktext_view}" HorizontalOptions="Fill"/>
+                            <Button Text="Del" Command="{Binding BindingContext.DelTask, Source={x:Reference Name=root} }"
+                                    CommandParameter="{Binding}" HorizontalOptions="End"></Button>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
